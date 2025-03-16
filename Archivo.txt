@@ -1,2 +1,2 @@
 Linea 1: Este es el primer dato
- Linea 2: Este es el segundo dato
+Linea 2: Este es el segundo dato
